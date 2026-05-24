@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prapti krishnapurkar</h1>
 
-<h3 align="center">Software Engineer | Backend Developer | Problem Solver</h3>
+<h3 align="center">Software Engineer | Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;Java+%7C+Python+%7C+C;Building+Scalable+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
